@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/lesson_01_02.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="4" />
             </state>
           </provider>
         </entry>
@@ -48,11 +48,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lesson_01_04.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lesson_01_04.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_01_04.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="4" />
+              <selected id="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_01_05.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson_01_05.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lession_01_06.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lession_01_06.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -73,10 +91,12 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/exercises.ipynb" />
         <option value="$PROJECT_DIR$/multiple_stocks.ipynb" />
+        <option value="$PROJECT_DIR$/lesson_01_01.ipynb" />
         <option value="$PROJECT_DIR$/lesson_01_02.ipynb" />
         <option value="$PROJECT_DIR$/lesson_01_03.ipynb" />
-        <option value="$PROJECT_DIR$/lesson_01_01.ipynb" />
         <option value="$PROJECT_DIR$/lesson_01_04.ipynb" />
+        <option value="$PROJECT_DIR$/lesson_01_05.ipynb" />
+        <option value="$PROJECT_DIR$/lession_01_06.ipynb" />
       </list>
     </option>
   </component>
@@ -409,24 +429,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_01_03.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson_01_02.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="6" />
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_01_03.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_01_04.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_01_05.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lession_01_06.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
         </state>
       </provider>
     </entry>
