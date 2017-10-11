@@ -1,4 +1,4 @@
-# ML-for-Trading
+# Stock Data Analysis
 Repository with code for Machine Learning course offered by Udacity.com
 Code is written in Python 2.7
 Libraries used: Numpy, Pandas
